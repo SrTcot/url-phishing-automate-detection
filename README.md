@@ -39,8 +39,8 @@ This utility is ideal for cybersecurity analysts, threat hunters, SOC teams, dev
 Clone the repository:
 
 bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/SrTcot/url-phishing-automate-detection.git
+cd url-phishing-automate-detection
 
 Install dependencies:
 
